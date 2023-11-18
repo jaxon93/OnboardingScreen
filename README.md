@@ -10,4 +10,4 @@ The structure of this repository is like below: OnboardingScreen
 *  OnboardingScreenRecyclerViewKotlin (OnboardingScreen written in Kotlin using RecyclerView)
 
 The picuters of app is:
-![](untitled.gif)
+![]([untitled.gif](https://github.com/jaxon93/OnboardingScreen/blob/master/untitled.gif)https://github.com/jaxon93/OnboardingScreen/blob/master/untitled.gif)
