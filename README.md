@@ -11,4 +11,4 @@ The structure of this repository is like below: OnboardingScreen
 
 The picuters of app is:
 
-<img src="https://github.com/jaxon93/OnboardingScreen/blob/master/untitled.gif" width="108" height="228"/>
+<img src="https://github.com/jaxon93/OnboardingScreen/blob/master/untitled.gif" width="324" height="684"/>
